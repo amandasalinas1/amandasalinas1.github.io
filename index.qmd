@@ -8,9 +8,9 @@ about:
   image-width: 17em
 5  links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
+      href: https://www.linkedin.com/in/mandisalinas/
     - text: GitHub
-      href: https://github.com/samanthacsik
+      href: https://github.com/amandasalinas1
     - text: Email
       href: mailto:scsik@ucsb.edu
 ---
