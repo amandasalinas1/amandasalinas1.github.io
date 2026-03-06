@@ -1,11 +1,5 @@
 ---
-title: "amandasalinas1.github.io"
+title: "Mandi Salinas"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! My name is Mandi Salinas. I am a first year Master in Environmental Science and Management (MESM) student at the Bren school (UCSB). I am studying conservation planning and am excited about solving environmental problems. In my free time, I love painting, running and hanging out with my family. 
