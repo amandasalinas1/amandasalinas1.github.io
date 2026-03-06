@@ -1,5 +1,21 @@
 ---
 title: "Mandi Salinas"
+image: media/IMG_3216.jpeg
+toc: false
+about: 
+3  template: jolla
+4  image-shape: round
+  image-width: 17em
+5  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+    - text: GitHub
+      href: https://github.com/samanthacsik
+    - text: Email
+      href: mailto:scsik@ucsb.edu
+---
+        
+# page content excluded for brevity ~
 ---
 
 Hi! My name is Mandi Salinas. I am a first year Master in Environmental Science and Management (MESM) student at the Bren school (UCSB). I am studying conservation planning and am excited about solving environmental problems. In my free time, I love painting, running and hanging out with my family. 
